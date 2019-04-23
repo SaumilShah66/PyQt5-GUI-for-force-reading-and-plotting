@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>images/one_left_.png</file>
+    <file>images/one_left_after_.png</file>
+    <file>images/two_left_.png</file>
+    <file>images/two_left_after_.png</file>
+    <file>images/one_right_after_.png</file>
+    <file>images/one_right_.png</file>
+    <file>images/aa.png</file>
+    <file>images/two_right_.png</file>
+    <file>images/two_right_after_.png</file>
+    <file>images/SMT-logo.png</file>
+  </qresource>
+</RCC>
